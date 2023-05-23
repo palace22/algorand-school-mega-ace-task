@@ -1,13 +1,13 @@
 # Algorand School MEGA-ACE x Folks Finance
 
 ### Task Title:
-## NFT Lending Contract Development with PyTEAL
+## NFT as collateral Contract Development with PyTEAL
 
 ### Description:
-Welcome to the NFT Lending Contract Development task! Participants will showcase their skills and creativity by fixing and developing a smart contract using PyTEAL.
+Welcome to the NFT as collateral Contract Development task! Participants will showcase their skills and creativity by developing a smart contract using PyTEAL.
 
 ### Objective:
-The goal of this task is to fix and implement a decentralized lending contract that allows:
+The goal of this task is to implement a decentralized lending contract that allows:
 - Borrowers to collateralize their NFTs in order to take a loan;
 - Lenders to lent their tokens;
 - Liquidate a loan
@@ -29,11 +29,8 @@ Each user wishing to request a loan will have to enter:
 Every user can became a lender accepting the borrower proposal.
 Each lender has the right to seize the collateral if the debt is not paid on time.
 
-#### Fix the bug
-There is a bug in this configuration that allows the loss of assets, identify it, describe it and fix it.
-
 #### Additional feature
-Once the bug is fixed, further features can be thought of, describing and justifying them, then they can be implemented.
+Further features can be thought of, describing and justifying them, then they can be implemented e.g. downward auction on interest, tokenize lender position, extending loan period.
 ### Judging Criteria:
 Participants will be evaluated based on the following criteria:
 - *Usability*: The user interface or interaction mechanism should be user-friendly, making it easy for users to understand and interact with the contract.
@@ -41,4 +38,7 @@ Participants will be evaluated based on the following criteria:
 - *Code Quality*: The code should be well-structured, readable, and maintainable.
 
 ### Prizes:
-Participants with the most impressive and functional NFT lending contracts will be eligible for prizes of XXX gALGO.
+Participants with the most impressive and functional NFT as collateral contracts will be eligible for prizes:
+##### 1°: 3000 gALGO.
+##### 2°: 1500 gALGO.
+##### 3°:  500 gALGO.
