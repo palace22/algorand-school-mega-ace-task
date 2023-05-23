@@ -3,5 +3,5 @@ from beaker import *
 from contracts.helpers.checks import *
 from contracts.helpers.inners import *
 
-nft_lending_app = Application("NFT Lending")
+nft_as_collateral_app = Application("NFT Lending")
 
